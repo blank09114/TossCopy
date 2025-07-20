@@ -1,0 +1,15 @@
+# 제외할 폴더
+.idea/
+.settings/
+bin.Tosstest/
+자료/
+
+# IntelliJ 관련 파일
+*.iml
+
+# OS 임시파일
+.DS_Store
+Thumbs.db
+
+# 기타
+out/
