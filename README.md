@@ -1,4 +1,4 @@
-# 💸 TossCopy - Java GUI Banking System
+# 💸 Java GUI Banking System
 
 > **Java GUI 기반 금융 시스템 구현 프로젝트**  
 > 계좌 입출금, 송금, 이벤트(출석/퀴즈/포인트 등) 기능을 포함한 데스크탑 금융 애플리케이션입니다.
